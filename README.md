@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm currently a senior at BYU studying machine learning. 👋
 
 <!--
 **will-westover/will-westover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
